@@ -1,5 +1,5 @@
 // Connect to the ESP32 WebSocket server via Ngrok
-const socket = new WebSocket("wss://b625-180-191-52-26.ngrok-free.app"); // Use your Ngrok public URL
+const socket = new WebSocket("wss://7498-112-202-244-66.ngrok-free.app"); // Use your Ngrok public URL
 
 // Function to send the 'pump_on' command
 function turnOnPump() {
